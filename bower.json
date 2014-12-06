@@ -1,0 +1,22 @@
+{
+  "name": "slatifahrtfast",
+  "version": "0.0.0",
+  "authors": [
+    "Lisa P <mail@lislis.de>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quojs": "~3.0.6",
+    "hammer.js": "~2.0.4"
+  }
+}
